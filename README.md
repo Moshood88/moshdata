@@ -1,6 +1,6 @@
 chat boot for AI searches
 git commands
 git clone
-git add
+git add .
 git push
-git commit
+git commit -m
